@@ -1,4 +1,4 @@
-# Meu site com bootstrap
+# Meu site de apresentação com bootstrap
 Esse é um modelo de site propio que realizei a partir do bootstrap
 
 foram utilizadas:
